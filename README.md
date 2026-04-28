@@ -12,9 +12,9 @@ Perform statistical testing to validate differences between groups
 Provide actionable business recommendations
 
 ## Tools & Technologies
-Python (Pandas, SciPy) — data cleaning & statistical analysis
-SQL (SQLite) — data querying and aggregation
-Tableau — data visualization (dashboard)
+- Python (Pandas, SciPy) — data cleaning & statistical analysis
+- SQL (SQLite) — data querying and aggregation
+- Tableau — data visualization (dashboard)
 
 ## Dataset
 Source: Kaggle (Fast Food Marketing Campaign A/B Test)
