@@ -1,4 +1,4 @@
-# Project Overview
+## Project Overview
 
 This project analyzes the effectiveness of three marketing campaigns conducted by a fast-food chain to promote a new product. The goal is to evaluate which promotion strategy generates the highest sales performance and provide data-driven recommendations.
 
