@@ -31,8 +31,8 @@ Provide actionable business recommendations
 3. Statistical Testing
 - Conducted ANOVA test to compare mean sales across promotion groups
 - Result:
-     -- F-statistic: 21.95
-     -- p-value: 6.77e-10
+     --> F-statistic: 21.95
+     --> p-value: 6.77e-10
 
 ## Key Insights
 - Promotion Performance
