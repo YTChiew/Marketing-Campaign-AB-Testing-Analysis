@@ -17,22 +17,22 @@ Provide actionable business recommendations
 - Tableau — data visualization (dashboard)
 
 ## Dataset
-Source: Kaggle (Fast Food Marketing Campaign A/B Test)
-Structure: MarketID, LocationID, Promotion (1, 2, 3), Week (1–4). SalesInThousands, and MarketSize (Small, Medium, Large)
+- Source: Kaggle (Fast Food Marketing Campaign A/B Test)
+- Structure: MarketID, LocationID, Promotion (1, 2, 3), Week (1–4). SalesInThousands, and MarketSize (Small, Medium, Large)
 
 ## Methodology
 1. Data Preparation
-Cleaned dataset using Python (handled missing values, validated data types)
-Loaded structured data into SQL database
+- Cleaned dataset using Python (handled missing values, validated data types)
+- Loaded structured data into SQL database
 2. Data Analysis (SQL)
-Calculated average sales by promotion
-Analyzed weekly sales trends
-Segmented performance by market size
+- Calculated average sales by promotion
+- Analyzed weekly sales trends
+- Segmented performance by market size
 3. Statistical Testing
-Conducted ANOVA test to compare mean sales across promotion groups
-Result:
-F-statistic: 21.95
-p-value: 6.77e-10
+- Conducted ANOVA test to compare mean sales across promotion groups
+- Result:
+     -- F-statistic: 21.95
+     -- p-value: 6.77e-10
 
 ## Key Insights
 - Promotion Performance
