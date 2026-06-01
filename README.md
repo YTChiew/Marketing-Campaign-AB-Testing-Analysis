@@ -92,3 +92,19 @@ This analysis demonstrates that marketing strategy selection has a measurable im
 
 The project demonstrates the use of SQL, Python, and statistical analysis to transform raw business data into actionable insights and support evidence-based decision-making.
 
+---
+
+## Key Visualizations (Python)
+
+### Campaign Performance
+![Campaign Performance](images/campaign_performance.png)
+
+**Objective**
+- Compare average sales performance across the three promotion groups.
+- Helps identify whether differences in performance may be influenced by sample size distribution.
+
+**Key Insights**
+- Promotion 1 achieved the highest average sales.
+- Promotion 3 demonstrated comparable performance to Promotion 1.
+- Promotion 2 consistently generated lower average sales.
+- Sample sizes were relatively balanced across groups, suggesting that performance differences are unlikely to be driven by unequal group representation..
