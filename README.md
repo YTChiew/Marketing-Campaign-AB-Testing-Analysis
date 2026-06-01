@@ -3,6 +3,8 @@ The aim of this project is to assess the effectiveness of three marketing campai
 
 The project follows an end-to-end analytical workflow, including data cleaning, SQL-based querying, exploratory data analysis, statistical hypothesis testing, and business insight generation. ANOVA and Tukey’s HSD post-hoc analysis were used to statistically analyse differences among the promotion groups.
 
+- [View Notebook in Colab]( https://colab.research.google.com/github/YTChiew/Marketing-Campaign-AB-Testing-Analysis/blob/main/campaign_analysis_pipeline.ipynb)
+
 ----
 
 ## Objectives
