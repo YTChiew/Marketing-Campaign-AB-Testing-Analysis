@@ -39,7 +39,7 @@ Provide actionable business recommendations
 - Visualized campaign performance using Matplotlib charts
 
 3. Statistical Testing
-### A. ANOVA test 
+#### A. ANOVA test 
 - Conducted a one-way ANOVA test to determine whether there were statistically significant differences in average sales across the 3 promotion groups. 
   
 - Result:
@@ -49,7 +49,7 @@ Provide actionable business recommendations
 - Interpretation:
 The extremely low p-value (p < 0.05) indicates that there are statistically significant differences in average sales between at least one pair of promotion groups.
 
-### B. Post-hoc Analysis (Tukey’s HSD Test)
+#### B. Post-hoc Analysis (Tukey’s HSD Test)
 - Tukey's HSD test was performed to identify which specific promotion groups differ significantly.
   
 - Key Findings:
@@ -62,17 +62,17 @@ These findings suggest that Promotion 2 consistently underperformed, while Promo
 ---
 
 ## Key Insights
-### - Promotion Performance
+#### - Promotion Performance
 Promotion 1 achieved the highest average sales (~58K)
 Promotion 3 showed moderate performance (~55K)
 Promotion 2 significantly underperformed (~47K)
 
-### - Time Trend (4 Weeks)
+#### - Time Trend (4 Weeks)
 Performance ranking remained consistent across all weeks
 Promotion 1 consistently outperformed others
 Minimal fluctuation → stable campaign effectiveness
 
-### - Market Size Impact
+#### - Market Size Impact
 Large markets: highest sales (~60K–77K)
 Small markets: moderate (~50K–60K)
 Medium markets: lowest (~39K–47K)
