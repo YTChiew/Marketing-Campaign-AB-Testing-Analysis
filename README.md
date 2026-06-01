@@ -5,7 +5,6 @@ The project follows an end-to-end analytical workflow, including data cleaning, 
 
 - [View Notebook in Colab](https://colab.research.google.com/drive/1tTnGxS6I_0R0QxaWmBPGF5EZz6FqscJM?usp=sharing)
 
-- 
 ----
 
 ## Objectives
