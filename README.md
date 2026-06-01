@@ -63,19 +63,18 @@ These findings suggest that Promotion 2 consistently underperformed, while Promo
 
 ## Key Insights
 #### - Promotion Performance
-Promotion 1 achieved the highest average sales (~58K)
-Promotion 3 showed moderate performance (~55K)
-Promotion 2 significantly underperformed (~47K)
+- Promotion 1 achieved the highest average sales (~58K)
+- Promotion 3 showed moderate performance (~55K)
+- Promotion 2 significantly underperformed (~47K)
 
 #### - Time Trend (4 Weeks)
-Performance ranking remained consistent across all weeks
-Promotion 1 consistently outperformed others
-Minimal fluctuation → stable campaign effectiveness
-
+- Performance ranking remained consistent across all weeks with Promotion 1 consistently outperformed other.
+- The minimal fluctuation across the weeks indicate a stable campaign effectiveness
+  
 #### - Market Size Impact
-Large markets: highest sales (~60K–77K)
-Small markets: moderate (~50K–60K)
-Medium markets: lowest (~39K–47K)
+- Large markets: highest sales (~60K–77K)
+- Small markets: moderate (~50K–60K)
+- Medium markets: lowest (~39K–47K)
 
 ---
 
